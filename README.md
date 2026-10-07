@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/pc-engine-cd/emerald-dragon)**.
+
 Traducción al **español de España** de *Emerald Dragon* para **PC Engine Super CD-ROM²**, desarrollada sobre la edición japonesa **Rev 1**.
 
 Se distribuye como **parche**. Necesitas tu propia copia del juego; la descarga no incluye el disco ni la BIOS.
